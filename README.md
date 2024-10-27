@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Backend Developer with 4+ years of experienc
 
 ## 💻 Tech Stack & Skills
 
-## 🛠 Languages and Tools
+### 🛠 Languages and Tools
 <p align="center">
 <img src="./icons/Python-Dark.svg" width="48">
 <img src="./icons/PyCharm-Dark.svg" width="48">
