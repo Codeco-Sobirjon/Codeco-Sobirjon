@@ -76,4 +76,3 @@ I'm currently exploring advanced aspects of:
 
 Thank you for visiting! 😊 Feel free to reach out for collaborations, questions, or just to say hi!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
