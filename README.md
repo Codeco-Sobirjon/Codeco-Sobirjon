@@ -1,4 +1,6 @@
+<p align="center">
 # Hi there, I'm [Bobojonov Sobirjon]! 👋
+</p>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A7E1&width=435&lines=Backend+Developer+%7C+Python+Expert;4%2B+years+experience+with+Django%2C+Flask%2C+FastAPI;API+Development+%7C+Database+Management" alt="Typing SVG" />
