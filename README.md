@@ -73,7 +73,7 @@ I'm currently exploring advanced aspects of:
 ## 🤝 Let's Connect!
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sobir-bobojonov-9a636024b/)
 - **GitHub**: [Other GitHub Account](https://github.com/BobojonovSobir0576)
-- **Email**: [YourEmail@example.com](mailto:dweb0987654321@gmail.com)
+- **Email**: [sobirbobojonov05763104@gmail.com](mailto:sobirbobojonov05763104@gmail.com)
 
 Thank you for visiting! 😊 Feel free to reach out for collaborations, questions, or just to say hi!
 
